@@ -13,7 +13,7 @@ metadata:
     - title: Blog
       url: https://janus-idp.io/blog
     - title: Slack
-      url: https://join.slack.com/t/janus-idp/shared_invite/zt-1pxtehxom-fCFtF9rRe3vFqUiFFeAkmg
+      url: https://join.slack.com/t/janus-idp/shared_invite/zt-1pxtehxom-fCFtF9rRe3vFqUiFFeAkmg3
   annotations:
     argocd/app-name: "janus-idp-smaug"
     backstage.io/kubernetes-id: "janus-idp"
